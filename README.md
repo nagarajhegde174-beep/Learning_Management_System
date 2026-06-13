@@ -1,8 +1,4 @@
 
-
-
-
-
 ### Backend
 
 | Technology | Purpose |
