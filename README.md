@@ -1,20 +1,4 @@
 
-### Backend
-
-| Technology | Purpose |
-|---|---|
-| Node.js | Runtime environment |
-| Express.js | REST API server |
-| MongoDB | Database |
-| Mongoose | ODM and schema modeling |
-| JWT | Authentication |
-| bcryptjs | Password hashing |
-| Cloudinary | Book cover image storage |
-| Multer | File upload handling |
-| Nodemailer | OTP and email notifications |
-| dotenv | Environment configuration |
-
----
 
 ## Project Structure
 
