@@ -1,8 +1,4 @@
 
-
-
-   
-
 ## Getting Started
 
 ### Prerequisites
