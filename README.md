@@ -1,14 +1,3 @@
-
-## Getting Started
-
-### Prerequisites
-
-- Node.js v18 or above
-- npm or yarn
-- MongoDB Atlas account or local MongoDB setup
-- Cloudinary account
-- Gmail account with an app password for email features
-
 ### Installation
 
 Clone the repository:
