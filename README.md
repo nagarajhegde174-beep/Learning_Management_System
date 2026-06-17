@@ -1,18 +1,4 @@
-### Installation
 
-Clone the repository:
-
-```bash
-git clone https://github.com/your-username/agc-library-management.git
-cd agc-library-management
-```
-
-Install backend dependencies:
-
-```bash
-cd backend
-npm install
-```
 
 Install frontend dependencies:
 
